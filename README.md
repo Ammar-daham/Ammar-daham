@@ -30,7 +30,7 @@ I do hiking, camping, working out, cooking, travelling in my free time.
 
 
 ### Example of projects
-- [favorite-country-list.netlify.app/](favorite-country-list.netlify.app/)
+- [https://favorite-country-list.netlify.app/](https://favorite-country-list.netlify.app/)
 - [https://ammar-cofeshop.netlify.app/](https://ammar-cofeshop.netlify.app/)
 - [https://ammar-weather.netlify.app/](https://ammar-weather.netlify.app/)
 
