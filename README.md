@@ -29,6 +29,8 @@ Specialities: Front-End, Back-End, Full Stack developer, Data analytics, Data vi
 I do hiking, camping, working out, cooking, travelling in my free time.
 
 
+### Example of projects
+- [favorite-country-list.netlify.app/](favorite-country-list.netlify.app/)
 
 ### Social media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://fi.linkedin.com/in/ammar-daham/)
