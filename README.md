@@ -2,13 +2,13 @@
 
 ## Welcone to my github account.
 
-I am Ammar Daham, a software engineering at Metropolia University of Applied Sciences.  I have a bachelor’s degree in computer science form Mosul university and a degree in information and communications technology at Omnia vocational College Leppävaara. I am currently a full stack developer trainee at #Integrify 
+I am Ammar Daham, a software engineer. I have a bachelor’s degree in ICT from Metropolia of Applied Sceinces and another bachelor’s degree in computer and mathmatics science form Mosul university and a degree in information and communications technology at Omnia vocational College Leppävaara. I am currently employed by Airdice Oy as a full stack developer.
 
 I have gained an intermediate experience in Big Data, Data Visualisation and machine learning through my exchange program in the Netherland.
 
-As a worker, I am detail-oriented, result-driven and organised person. I work well with others and part of a team. I do not shy away from delegation of work. My passion is to work as a full stack developer and keep updating my knowledge about technologies.  
+As a worker, I am detail-oriented, result-driven and organised person. I work well with others and part of a team. I do not shy away from delegation of work.
 
-Specialities: Front-End, Back-End, Full Stack developer, Data analytics, Data visualisation and machine learning. 
+Specialities: Front-End, Back-End, Full Stack developer, Integration developer, Data visualisation and machine learning. 
 
 I do hiking, camping, working out, cooking, travelling in my free time.
 
