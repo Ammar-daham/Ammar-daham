@@ -17,6 +17,8 @@ I do hiking, camping, working out, playing football, travelling in my free time.
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Css" src="https://img.shields.io/badge/-Css-blue?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-figma-1b263b?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-1b263b?style=flat-square&logo=jira&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8338ec?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-e9ecef?style=flat-square&logo=materialui&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
