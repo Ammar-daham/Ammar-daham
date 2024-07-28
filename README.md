@@ -51,7 +51,7 @@ I do hiking, camping, working out, playing football, travelling in my free time.
 ### Social media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://fi.linkedin.com/in/ammar-daham/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aljewaryammar@gmail.com)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://ammardaham.fi/)
 
 
 ## Github status
