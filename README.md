@@ -36,6 +36,7 @@ I do hiking, camping, working out, playing football, travelling in my free time.
   <img alt="Sql" src="https://img.shields.io/badge/-MySQL-46a2f1?logo=mysql&logoColor=white&style=flat-square" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat-square" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-blue?logo=mariadb&logoColor=white&style=flat-square" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-yellow?logo=hibernate&logoColor=white&style=flat-square" />
 </p>
 
 
