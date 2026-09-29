@@ -93,7 +93,7 @@
 | ☕ **Coffee Shop** | *[Short description, e.g. coffee shop website / ordering UI]* | [Visit](https://ammar-cofeshop.netlify.app/) |
 | 🌦️ **Weather App** | *[Short description, e.g. real-time weather lookup by city]* | [Visit](https://ammar-weather.netlify.app/) |
 | 🌍 **Favorite Country List** | *[Short description, e.g. browse countries and save favorites]* | [Visit](https://favorite-country-list.netlify.app/) |
-| ✅ **Todo App** | *[Short description, e.g. task manager with add/edit/complete]* | [Visit](https://6aa302e3f2baae0631c29b9a--taskstoachive.netlify.app/) |
+| ✅ **Todo App** | *[Short description, e.g. task manager with add/edit/complete]* | [Visit](https://taskstoachive.netlify.app/) |
 | 💧 **Summer Water** | *[Short description]* | [Visit](https://summer-water-4667.fly.dev/) |
 
 ---
